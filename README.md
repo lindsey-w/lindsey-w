@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on this readme
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning go
 - 💬 Ask me about cyber defense 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my cat likes to go on walks
